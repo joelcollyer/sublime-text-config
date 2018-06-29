@@ -1,0 +1,4 @@
+{
+	"terminal": "C:\\tools\\cmder\\cmder.exe",
+	"parameters": ["/START", "%CWD%"]
+}

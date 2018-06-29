@@ -1,13 +1,10 @@
 {
 	"added_words":
 	[
-		"Chocolatey",
-		"colour",
-		"Laravel",
-		"MySQL",
-		"PHP",
 		"Uninstall",
-		"Sparrowhawk"
+		"Laravel",
+		"Chocolatey",
+		"php"
 	],
 	"always_show_minimap_viewport": true,
 	"binary_file_patterns":
@@ -32,21 +29,10 @@
 	],
 	"bold_folder_labels": "true",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-	"default_line_ending": "unix",
 	"draw_white_space": "selection",
-	"folder_exclude_patterns":
-	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		"node_modules"
-	],
-	"font_size": 8,
+	"font_size": 10,
 	"ignored_packages":
 	[
-		"CSS3",
-		"SublimeLinter-jsl",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -56,22 +42,11 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"material_theme_accent_graphite": true,
-	"material_theme_appbar_charcoal": true,
-	"material_theme_bold_tab": true,
-	"material_theme_bright_scrollbars": true,
-	"material_theme_bullet_tree_indicator": true,
-	"material_theme_compact_sidebar": true,
-	"material_theme_contrast_mode": true,
-	"material_theme_titlebar": true,
-	"material_theme_tree_headings": true,
 	"rulers":
 	[
-		120
+		100
 	],
 	"spell_check": true,
-	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"translate_tabs_to_spaces": true,
 	"word_wrap": "false"
 }

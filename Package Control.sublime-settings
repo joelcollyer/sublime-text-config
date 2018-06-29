@@ -6,27 +6,26 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Alignment",
 		"Babel",
-		"Babel Snippets",
-		"Behat",
-		"CSS3",
-		"EditorConfig",
-		"JsPrettier",
-		"Laravel Blade AutoComplete",
+		"HTML5",
+		"jQuery",
 		"Laravel Blade Highlighter",
 		"LESS",
+		"Liquid",
 		"MarkdownPreview",
 		"Material Theme",
-		"Material Theme - Appbar",
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
-		"SublimeGit",
+		"Shell Turtlestein",
+		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-csslint",
-		"SublimeLinter-eslint",
 		"SublimeLinter-jsl",
+		"SublimeLinter-json",
 		"SublimeLinter-php",
-		"SublimeLinter-phpcs"
+		"Theme - Brogrammer",
+		"TortoiseGit Context Integration",
+		"Twig"
 	]
 }
