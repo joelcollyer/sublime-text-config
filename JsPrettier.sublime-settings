@@ -1,0 +1,11 @@
+{
+    "auto_format_on_save": true,
+    "additional_cli_args": {
+        "--config": "${folder}\\.prettierrc"
+    },
+    "auto_format_on_save_excludes": [
+        "*/vendor/*",
+        "*/node_modules/*",
+        "*.json"
+    ]
+}

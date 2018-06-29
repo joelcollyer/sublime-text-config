@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Babel Snippets",
+		"Behat",
+		"CSS3",
+		"EditorConfig",
+		"JsPrettier",
+		"Laravel Blade AutoComplete",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"MarkdownPreview",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-jsl",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs"
+	]
+}

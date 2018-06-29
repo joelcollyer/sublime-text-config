@@ -1,0 +1,7 @@
+{
+    // "phpcbf_path": "/usr/local/bin/phpcbf",
+    "php_path": "C:\\tools\\php72\\php.exe",
+    "phpcs_path": "C:\\Users\\joel.collyer\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcs",
+    "phpcs_standard": "PSR2",
+    "run_on_save": true
+}

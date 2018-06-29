@@ -1,0 +1,26 @@
+// SublimeLinter Settings - User
+{
+    "linters": {
+        "paths": {
+            "windows": [
+                "${project}\\node_modules\\.bin\\",
+                "${folder}\\node_modules\\.bin\\",
+                "${project}\\vendor\\bin\\",
+                "${folder}\\vendor\\bin\\"
+            ]
+        },
+        "phpcs":{
+            // "executable": "${folder}\\vendor\\bin\\phpcs.bat"
+        },
+        "eslint": {
+            // "executable": "${folder}\\node_modules\\.bin\\eslint.cmd",
+        },
+        "jsl": {
+            "excludes": [
+                "*.jsx",
+                "*.ts",
+                "*.tsx"
+            ]
+        }
+    }
+}
