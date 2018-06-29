@@ -8,6 +8,9 @@
 		"PHP",
 		"Uninstall",
 		"Sparrowhawk"
+		"Laravel",
+		"Chocolatey",
+		"php"
 	],
 	"always_show_minimap_viewport": true,
 	"binary_file_patterns":
@@ -42,7 +45,7 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_size": 8,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"CSS3",

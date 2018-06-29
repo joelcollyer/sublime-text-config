@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Alignment",
 		"Babel",
 		"Babel Snippets",
 		"Behat",
@@ -13,6 +14,7 @@
 		"EditorConfig",
 		"JsPrettier",
 		"Laravel Blade AutoComplete",
+		"HTML5",
 		"Laravel Blade Highlighter",
 		"LESS",
 		"MarkdownPreview",
@@ -22,10 +24,12 @@
 		"Pretty JSON",
 		"Sass",
 		"SublimeGit",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-jsl",
+		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs"
 	]
