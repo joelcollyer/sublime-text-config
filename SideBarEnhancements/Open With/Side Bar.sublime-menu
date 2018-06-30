@@ -1,0 +1,51 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+			{
+				"caption": "Photoshop",
+				"id": "side-bar-files-open-with-photoshop",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "C:\\Program Files\\Adobe\\Adobe Photoshop CC 2017\\Photoshop.exe",
+					"extensions":"psd|png|jpg|jpeg",  //any file with these extensions
+					"args":[]
+				},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			{
+				"caption": "Illustrator",
+				"id": "side-bar-files-open-with-illustrator",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "C:\\Program Files\\Adobe\\Adobe Illustrator CC 2017\\Support Files\\Contents\\Windows\\Illustrator.exe",
+					"extensions":"ai|svg",  //any file with these extensions
+					"args":[]
+				},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			//separator
+			{"caption":"-"},
+
+			//application 2
+			{
+				"caption": "Google Chrome",
+				"id": "side-bar-files-open-with-chrome",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe", // WINNT
+					"extensions":"", //open all even folders
+					"args":[]
+				},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			{"caption":"-"}
+		]
+	}
+]
