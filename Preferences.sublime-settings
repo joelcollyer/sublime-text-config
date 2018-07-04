@@ -26,6 +26,8 @@
 		"*.swf",
 		"*.jar",
 		"*.zip",
+		"build/**",
+		"*/build/**",
 		"node_modules/**",
 		"bower_components/**",
 		"*/node_modules/**",
