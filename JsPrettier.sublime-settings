@@ -7,5 +7,6 @@
         "*/vendor/*",
         "*/node_modules/*",
         "*.json"
-    ]
+    ],
+    "auto_format_on_save_requires_prettier_config": true
 }
