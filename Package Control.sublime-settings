@@ -33,5 +33,9 @@
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/LineEndings.git"
 	]
 }
