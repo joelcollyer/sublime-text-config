@@ -1,7 +1,7 @@
 {
-    "auto_format_on_save": true,
+    "auto_format_on_save": false,
     "additional_cli_args": {
-        "--config": "${folder}\\.prettierrc"
+        "--config": ".prettierrc"
     },
     "auto_format_on_save_excludes": [
         "*/vendor/*",

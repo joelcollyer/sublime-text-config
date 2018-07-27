@@ -10,6 +10,7 @@
             ]
         },
         "phpcs":{
+            "standard": "PSR2"
             // "executable": "${folder}\\vendor\\bin\\phpcs.bat"
         },
         "eslint": {
