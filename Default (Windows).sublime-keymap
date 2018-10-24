@@ -4,5 +4,11 @@
 	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
 	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
 	{ "keys": ["ctrl+shift+v"], "command": "paste" },
-	{ "keys": ["ctrl+0"], "command": "reset_font_size" }
+	{ "keys": ["ctrl+0"], "command": "reset_font_size" },
+    // SublimePHPCompanion key bindings
+    { "keys": ["alt+u"], "command": "find_use" },
+    { "keys": ["alt+i"], "command": "import_namespace" },
+    { "keys": ["shift+f12"], "command": "goto_definition_scope" },
+    { "keys": ["ctrl+alt+c"], "command": "insert_php_constructor_property" },
+    // { "keys": [""], "command": "implement" },
 ]

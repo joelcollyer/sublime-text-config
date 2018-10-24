@@ -44,7 +44,7 @@
 		".hg",
 		"node_modules"
 	],
-	"font_size": 9,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"CSS3",
@@ -69,7 +69,7 @@
 	"material_theme_tree_headings": true,
 	"rulers":
 	[
-		120
+		100
 	],
 	"spell_check": true,
 	"tab_size": 4,
