@@ -31,6 +31,7 @@
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-contrib-alex",
+		"SublimeLinter-contrib-write-good",
 		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-jsl",
