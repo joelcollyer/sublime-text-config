@@ -6,7 +6,10 @@
                 "${project}\\node_modules\\.bin\\",
                 "${folder}\\node_modules\\.bin\\",
                 "${project}\\vendor\\bin\\",
-                "${folder}\\vendor\\bin\\"
+                "${folder}\\vendor\\bin\\",
+                "%LOCALAPPDATA%\\Yarn\\bin\\",
+                "%APPDATA%\\npm\\",
+                "%APPDATA%\\Composer\\vendor\\bin\\"
             ]
         },
         "phpcs":{
