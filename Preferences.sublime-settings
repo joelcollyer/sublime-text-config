@@ -48,6 +48,7 @@
 	"ignored_packages":
 	[
 		"CSS3",
+		"SublimeLinter-contrib-write-good",
 		"SublimeLinter-jsl",
 		"Vintage"
 	],
