@@ -1,17 +1,18 @@
 // SublimeLinter Settings - User
 {
+    "debug": false,
+    "paths": {
+        "windows": [
+            "${project}\\node_modules\\.bin\\",
+            "${folder}\\node_modules\\.bin\\",
+            "${project}\\vendor\\bin\\",
+            "${folder}\\vendor\\bin\\",
+            "%LOCALAPPDATA%\\Yarn\\bin\\",
+            "%APPDATA%\\npm\\",
+            "%APPDATA%\\Composer\\vendor\\bin\\"
+        ]
+    },
     "linters": {
-        "paths": {
-            "windows": [
-                "${project}\\node_modules\\.bin\\",
-                "${folder}\\node_modules\\.bin\\",
-                "${project}\\vendor\\bin\\",
-                "${folder}\\vendor\\bin\\",
-                "%LOCALAPPDATA%\\Yarn\\bin\\",
-                "%APPDATA%\\npm\\",
-                "%APPDATA%\\Composer\\vendor\\bin\\"
-            ]
-        },
         "phpcs":{
             "standard": "PSR2"
             // "executable": "${folder}\\vendor\\bin\\phpcs.bat"
