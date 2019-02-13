@@ -44,6 +44,7 @@
 		".hg",
 		"node_modules"
 	],
+	"font_face": "Dejavu Sans Mono",
 	"font_size": 10,
 	"ignored_packages":
 	[
