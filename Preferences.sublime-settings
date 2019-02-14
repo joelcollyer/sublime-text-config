@@ -44,8 +44,6 @@
 		".hg",
 		"node_modules"
 	],
-	// "font_face": "Consolas",
-	// "font_face": "Dejavu Sans Mono",
 	"font_face": "Source Code Variable",
 	"font_size": 10,
 	"ignored_packages":
