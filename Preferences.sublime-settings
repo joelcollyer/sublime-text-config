@@ -25,13 +25,7 @@
 		"*.pdf",
 		"*.swf",
 		"*.jar",
-		"*.zip",
-		"build/**",
-		"*/build/**",
-		"node_modules/**",
-		"bower_components/**",
-		"*/node_modules/**",
-		"*/bower_components/**"
+		"*.zip"
 	],
 	"bold_folder_labels": "true",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
@@ -42,7 +36,15 @@
 		".svn",
 		".git",
 		".hg",
-		"node_modules"
+		"build",
+		"build/**",
+		"*/build/**",
+		"node_modules",
+		"node_modules/**",
+		"*/node_modules/**",
+		"bower_components",
+		"bower_components/**",
+		"*/bower_components/**"
 	],
 	"font_face": "Source Code Variable",
 	"font_size": 10,
