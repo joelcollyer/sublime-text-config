@@ -44,10 +44,13 @@
 		"*/node_modules/**",
 		"bower_components",
 		"bower_components/**",
-		"*/bower_components/**"
+		"*/bower_components/**",
+		"*/cache/**",
+		"*/_ci_phpunit_test/**",
+		"storage/**"
 	],
 	"font_face": "Source Code Variable",
-	"font_size": 10,
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"CSS3",
