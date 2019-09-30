@@ -54,8 +54,8 @@
 	"ignored_packages":
 	[
 		"CSS3",
-		"SublimeLinter-contrib-write-good",
 		"Laravel Blade Highlighter",
+		"SublimeLinter-contrib-write-good",
 		"SublimeLinter-jsl",
 		"Vintage"
 	],
