@@ -55,6 +55,7 @@
 	[
 		"CSS3",
 		"SublimeLinter-contrib-write-good",
+		"Laravel Blade Highlighter",
 		"SublimeLinter-jsl",
 		"Vintage"
 	],
