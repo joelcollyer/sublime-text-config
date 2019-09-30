@@ -33,7 +33,6 @@
 		"SublimeLinter-contrib-write-good",
 		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
-		"SublimeLinter-jsl",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs"
