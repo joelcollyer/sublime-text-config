@@ -5,6 +5,10 @@
 		{
 			"enabled": true
 		},
+		"lsp-tsserver":
+		{
+			"enabled": true
+		},
 		"psalm":
 		{
 			"command":
@@ -23,5 +27,6 @@
 				"Packages/PHP/PHP.sublime-syntax"
 			]
 		}
-	}
+	},
+	"show_diagnostics_severity_level": 3
 }
