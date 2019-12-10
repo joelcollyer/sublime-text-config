@@ -75,6 +75,7 @@
 	"material_theme_contrast_mode": true,
 	"material_theme_titlebar": true,
 	"material_theme_tree_headings": true,
+	"phpunit.composer": true,
 	"rulers":
 	[
 		100
