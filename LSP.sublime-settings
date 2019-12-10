@@ -8,25 +8,6 @@
 		"lsp-tsserver":
 		{
 			"enabled": true
-		},
-		"psalm":
-		{
-			"command":
-			[
-				"php",
-				"vendor/bin/psalm-language-server"
-			],
-			"languageId": "php",
-			"scopes":
-			[
-				"source.php",
-				"embedding.php"
-			],
-			"syntaxes":
-			[
-				"Packages/PHP/PHP.sublime-syntax"
-			]
 		}
-	},
-	"show_diagnostics_severity_level": 3
+	}
 }
